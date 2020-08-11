@@ -1,0 +1,75 @@
+.topcontainer
+{
+position: relative;
+padding-top: 100px;
+background-color: #b2ebf2;
+}
+.middlecontainer
+{
+
+  position: relative;
+  padding-top: 100px;
+
+}
+.bottomcontainer
+{
+
+  position: relative;
+  padding-top: 10px;
+}
+.h1fonts
+{
+  color: #6fbfbf;
+  font-family:Brush Script MT;
+  font-size: 6rem;
+  margin-bottom: 0;
+}
+.pfonts
+{
+  color: #6fbfbf;
+  font-family:Impact, Charcoal, sans-serif;
+  font-size: 2rem;
+
+}
+.pfonts2
+{
+  color: #11999E;
+  font-family:Impact, Charcoal, sans-serif;
+  font-size: 1rem;
+}
+body{
+margin: 0;
+text-align: center;
+
+}
+.top_cloud{
+  position: absolute;
+  top:50px;
+  right: 720px;
+
+}
+.bottom_cloud{
+  position: absolute;
+}
+.button{
+  background-color: #6fbfbf;
+  margin-bottom: 50px;
+  height: 50px;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+
+}
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
